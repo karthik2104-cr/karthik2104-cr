@@ -2,17 +2,17 @@
 
 # Karthik Murali
 
-**AI/ML · Backend Development · Software Engineering · Computer Science Graduate**
+**AI/ML · Generative AI · Backend Development · Software Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-murali-b-83b71033b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikmurali2004@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=karthik2104-cr&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karthik-murali-b-83b71033b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:karthikmurali2004@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=karthik2104-cr\&style=for-the-badge\&color=6e40c9\&label=PROFILE+VIEWS)
 
 </div>
 
 <br>
 
-Computer Science graduate focused on AI/ML and backend development. I build machine-learning systems — resume screening, credit risk, and fraud detection — and pair them with FastAPI backends and databases so the models are actually usable, not just notebooks. Currently deepening my work on production-oriented ML workflows and connecting ML systems to real backend applications.
+Computer Science graduate focused on AI/ML, Generative AI, backend development, and software engineering. I build practical AI systems and backend applications with a focus on RAG, multi-agent workflows, intelligent automation, APIs, databases, and production-oriented software.
 
 <br>
 
@@ -20,29 +20,69 @@ Computer Science graduate focused on AI/ML and backend development. I build mach
 
 ## Featured Work
 
-**[AI Resume Intelligence — Explainable Candidate Ranking System](https://github.com/karthik2104-cr/AI-Resume-Intelligence---Explainable-Candidate-Ranking-System)**
-Modular resume-screening pipeline — document ingestion, embedding-based retrieval, and a hybrid ranker that produces evidence-grounded explanations instead of opaque scores. FastAPI backend with a Streamlit demo.
+### **[Enterprise AI Knowledge & Decision Intelligence Platform](https://github.com/karthik2104-cr/Enterprise-AI-Knowledge-Decision-Intelligence-Platform)**
+
+Enterprise AI platform combining **RAG, hybrid retrieval, semantic search, tool calling, agentic orchestration, structured outputs, citations, and AI evaluation**. Supports document ingestion, business-data analysis, evidence verification, reports, conversation history, and evaluation workflows.
+
+**Stack:** Python · FastAPI · React · PostgreSQL · RAG · BM25 · Semantic Search · Tool Calling · AI Evaluation
+
+---
+
+### **[Autonomous AI Research & Intelligence Platform](https://github.com/karthik2104-cr/Autonomous-AI-research-platform-with-multi-agent-architecture)**
+
+Multi-agent research platform that breaks complex questions into sub-tasks, performs research and RAG-based analysis, verifies information, and generates structured reports. Includes local model support, persistent history, evaluation, and document-based knowledge retrieval.
+
+**Stack:** Python · Ollama · ChromaDB · Streamlit · SQLite · SQLAlchemy · Multi-Agent Systems · RAG
+
+---
+
+### **[AI-Powered Distributed Workflow & Automation Platform](https://github.com/karthik2104-cr/AI-Powered-Distributed-Workflow-Automation-Platform)**
+
+Full-stack workflow automation platform with asynchronous background processing, workflow lifecycle management, retries, priorities, cancellation, idempotency, audit logging, authentication, and role-based access control. Also includes document intelligence, RAG-based Q&A, reporting, and structured AI outputs.
+
+**Stack:** Django REST Framework · React · PostgreSQL · Redis · Celery · Docker · AI/RAG · pytest
+
+---
+
+### **[AI Resume Intelligence — Explainable Candidate Ranking System](https://github.com/karthik2104-cr/AI-Resume-Intelligence---Explainable-Candidate-Ranking-System)**
+
+AI-powered resume screening system that processes resumes and job descriptions, extracts skills, performs semantic matching, ranks candidates, and provides explainable results. Includes embedding-based retrieval and ranking evaluation.
+
+**Stack:** Python · FastAPI · Streamlit · Sentence Transformers · TF-IDF · NLP · Explainable AI
+
+---
+
+<br>
+
+## Other Projects
 
 **[Credit Risk Prediction & Explainable ML System](https://github.com/karthik2104-cr/Credit-Risk-Prediction-and-Explainable-ML-System)**
-Classifies loan applicants as good/bad credit risk (XGBoost, Random Forest) and explains every prediction with SHAP. Includes a FastAPI `/predict` + `/explain` API, a 4-page Streamlit dashboard, and MLflow experiment tracking.
+End-to-end credit risk ML system with model comparison, feature engineering, cross-validation, hyperparameter tuning, SHAP explanations, FastAPI prediction APIs, Streamlit dashboard, and MLflow tracking.
 
-**[FedSecure — Privacy-Preserving Fraud Detection](https://github.com/karthik2104-cr/FedSecure-Privacy-Preserving-Fraud-Detection-using-Federated-Learning)**
-Multiclass fraud-detection dashboard trained via federated learning (FedAvg) instead of centralized data, covering seven fraud categories from credit card fraud to UPI fraud and ATM skimming.
+**[Intelligent Disaster Damage Assessment](https://github.com/karthik2104-cr/Intelligent-Disaster-Damage-Assessment)**
+Computer vision system for disaster damage classification with multiple deep-learning architectures, Grad-CAM explainability, and a FastAPI + React application.
 
-**[Autonomous AI Research Platform](https://github.com/karthik2104-cr/Autonomous-AI-research-platform-with-multi-agent-architecture)**
-Local multi-agent research assistant that plans sub-queries, gathers web and RAG evidence, verifies claims with an LLM-as-judge, and exports structured Markdown/PDF reports — all running without cloud API keys.
+**[Library / Personal Media Lending Tracker](https://github.com/karthik2104-cr/Library-or-Personal-Media-Lending-Tracker)**
+Full-stack lending management application with authentication, RBAC, catalog management, loans, reservations, waitlists, automated hold expiry, and concurrency-aware database operations.
 
 <br>
 
 ---
 
-## Other Projects
+## What I Build
 
-**[Library / Media Lending Tracker](https://github.com/karthik2104-cr/Library-or-Personal-Media-Lending-Tracker)** — FastAPI + PostgreSQL backend with auth/RBAC, checkout, returns, and reservation queues, paired with a React frontend.
+<div align="center">
 
-**[AI-Powered Resume Screening](https://github.com/karthik2104-cr/AI-Powered-Resume-Screening)** — Resume classifier and job-description matcher using TF-IDF similarity and Scikit-learn.
+| AI & GenAI          | Backend & Software    | ML & Data           |
+| ------------------- | --------------------- | ------------------- |
+| RAG Systems         | REST APIs             | Machine Learning    |
+| Multi-Agent Systems | FastAPI / DRF         | NLP                 |
+| LLM Applications    | Authentication & RBAC | Computer Vision     |
+| Semantic Search     | Distributed Workflows | Explainable AI      |
+| Tool Calling        | Background Jobs       | Model Evaluation    |
+| AI Evaluation       | PostgreSQL / Redis    | Feature Engineering |
 
-**[AI-Powered Healthcare Assistant](https://github.com/karthik2104-cr/AI-Powered-Health-Care-Assistant)** — Streamlit chatbot prototype for basic healthcare Q&A using a Hugging Face text-generation model.
+</div>
 
 <br>
 
@@ -50,36 +90,44 @@ Local multi-agent research assistant that plans sub-queries, gathers web and RAG
 
 ## Stack
 
-**Core**
+**Programming**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 
 **AI & Machine Learning**
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1560BD?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1560BD?style=for-the-badge\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+
+**Generative AI**
+
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-6E40C9?style=for-the-badge)
 
 **Backend & Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
 **Tools & Development**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 <br>
 
@@ -112,6 +160,6 @@ Local multi-agent research assistant that plans sub-queries, gathers web and RAG
 
 <div align="center">
 
-Open to AI/ML and backend engineering roles — always glad to connect.
+Open to AI/ML, Generative AI, and backend engineering opportunities.
 
 </div>
