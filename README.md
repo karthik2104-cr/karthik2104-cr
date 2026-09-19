@@ -96,4 +96,75 @@ Full-stack application with authentication, RBAC, catalog management, loans, res
 
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
-![NLP]()
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1560BD?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+**Tools & Development**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+<br>
+
+---
+
+## Engineering Highlights
+
+* RAG pipelines with hybrid retrieval, semantic search, reranking, and citations
+* Multi-agent workflows for research, analysis, verification, and reporting
+* REST APIs with authentication, RBAC, structured validation, and persistent storage
+* Distributed background workflows with Redis, Celery, retries, priorities, and idempotency
+* ML systems with model evaluation, explainability, experiment tracking, and API inference
+* Automated testing and CI using pytest and GitHub Actions
+
+<br>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=karthik2104-cr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2104-cr&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+
+</div>
+
+<br>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2104-cr&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+Open to AI/ML, Generative AI, and backend engineering opportunities.
+
+</div>
