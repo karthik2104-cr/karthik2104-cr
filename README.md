@@ -20,50 +20,48 @@ Computer Science graduate focused on AI/ML, Generative AI, backend development, 
 
 ## Featured Work
 
-### **[Enterprise AI Knowledge & Decision Intelligence Platform](https://github.com/karthik2104-cr/Enterprise-AI-Knowledge-Decision-Intelligence-Platform)**
+### [**Enterprise AI Knowledge & Decision Intelligence Platform**](https://github.com/karthik2104-cr/Enterprise-AI-Knowledge-Decision-Intelligence-Platform)
 
 Enterprise AI platform combining **RAG, hybrid retrieval, semantic search, tool calling, agentic orchestration, structured outputs, citations, and AI evaluation**. Supports document ingestion, business-data analysis, evidence verification, reports, conversation history, and evaluation workflows.
 
-**Stack:** Python · FastAPI · React · PostgreSQL · RAG · BM25 · Semantic Search · Tool Calling · AI Evaluation
+**Stack:** Python · FastAPI · React · PostgreSQL · RAG · BM25 · Semantic Search · Tool Calling
 
 ---
 
-### **[Autonomous AI Research & Intelligence Platform](https://github.com/karthik2104-cr/Autonomous-AI-research-platform-with-multi-agent-architecture)**
+### [**Autonomous AI Research & Intelligence Platform**](https://github.com/karthik2104-cr/Autonomous-AI-research-platform-with-multi-agent-architecture)
 
-Multi-agent research platform that breaks complex questions into sub-tasks, performs research and RAG-based analysis, verifies information, and generates structured reports. Includes local model support, persistent history, evaluation, and document-based knowledge retrieval.
+Multi-agent research platform that breaks complex questions into sub-tasks, gathers information, performs RAG-based analysis, verifies claims, and generates structured reports. Includes local model support, document retrieval, persistent history, and evaluation.
 
-**Stack:** Python · Ollama · ChromaDB · Streamlit · SQLite · SQLAlchemy · Multi-Agent Systems · RAG
-
----
-
-### **[AI-Powered Distributed Workflow & Automation Platform](https://github.com/karthik2104-cr/AI-Powered-Distributed-Workflow-Automation-Platform)**
-
-Full-stack workflow automation platform with asynchronous background processing, workflow lifecycle management, retries, priorities, cancellation, idempotency, audit logging, authentication, and role-based access control. Also includes document intelligence, RAG-based Q&A, reporting, and structured AI outputs.
-
-**Stack:** Django REST Framework · React · PostgreSQL · Redis · Celery · Docker · AI/RAG · pytest
+**Stack:** Python · Ollama · ChromaDB · Streamlit · SQLite · SQLAlchemy · Multi-Agent Systems
 
 ---
 
-### **[AI Resume Intelligence — Explainable Candidate Ranking System](https://github.com/karthik2104-cr/AI-Resume-Intelligence---Explainable-Candidate-Ranking-System)**
+### [**AI-Powered Distributed Workflow & Automation Platform**](https://github.com/karthik2104-cr/AI-Powered-Distributed-Workflow-Automation-Platform)
 
-AI-powered resume screening system that processes resumes and job descriptions, extracts skills, performs semantic matching, ranks candidates, and provides explainable results. Includes embedding-based retrieval and ranking evaluation.
+Full-stack workflow automation platform with asynchronous processing, workflow lifecycle management, retries, priorities, cancellation, idempotency, audit logging, authentication, and role-based access control. Also includes document intelligence, RAG-based Q&A, reporting, and structured AI outputs.
 
-**Stack:** Python · FastAPI · Streamlit · Sentence Transformers · TF-IDF · NLP · Explainable AI
+**Stack:** Python · Django REST Framework · React · PostgreSQL · Redis · Celery · Docker
 
 ---
 
-<br>
+### [**AI Resume Intelligence — Explainable Candidate Ranking System**](https://github.com/karthik2104-cr/AI-Resume-Intelligence---Explainable-Candidate-Ranking-System)
+
+AI-powered resume screening system that processes resumes and job descriptions, performs semantic and structured matching, ranks candidates, and provides explainable results.
+
+**Stack:** Python · FastAPI · Streamlit · Sentence Transformers · TF-IDF · NLP
+
+---
 
 ## Other Projects
 
 **[Credit Risk Prediction & Explainable ML System](https://github.com/karthik2104-cr/Credit-Risk-Prediction-and-Explainable-ML-System)**
-End-to-end credit risk ML system with model comparison, feature engineering, cross-validation, hyperparameter tuning, SHAP explanations, FastAPI prediction APIs, Streamlit dashboard, and MLflow tracking.
+End-to-end credit risk ML system with model evaluation, feature engineering, hyperparameter tuning, SHAP explanations, FastAPI APIs, Streamlit dashboard, and MLflow tracking.
 
 **[Intelligent Disaster Damage Assessment](https://github.com/karthik2104-cr/Intelligent-Disaster-Damage-Assessment)**
-Computer vision system for disaster damage classification with multiple deep-learning architectures, Grad-CAM explainability, and a FastAPI + React application.
+Computer vision system for disaster damage classification with model comparison, Grad-CAM explainability, and a FastAPI + React application.
 
 **[Library / Personal Media Lending Tracker](https://github.com/karthik2104-cr/Library-or-Personal-Media-Lending-Tracker)**
-Full-stack lending management application with authentication, RBAC, catalog management, loans, reservations, waitlists, automated hold expiry, and concurrency-aware database operations.
+Full-stack application with authentication, RBAC, catalog management, loans, reservations, waitlists, automated hold expiry, and concurrency-aware database operations.
 
 <br>
 
@@ -71,18 +69,14 @@ Full-stack lending management application with authentication, RBAC, catalog man
 
 ## What I Build
 
-<div align="center">
-
 | AI & GenAI          | Backend & Software    | ML & Data           |
 | ------------------- | --------------------- | ------------------- |
 | RAG Systems         | REST APIs             | Machine Learning    |
 | Multi-Agent Systems | FastAPI / DRF         | NLP                 |
 | LLM Applications    | Authentication & RBAC | Computer Vision     |
 | Semantic Search     | Distributed Workflows | Explainable AI      |
-| Tool Calling        | Background Jobs       | Model Evaluation    |
+| Tool Calling        | Async Processing      | Model Evaluation    |
 | AI Evaluation       | PostgreSQL / Redis    | Feature Engineering |
-
-</div>
 
 <br>
 
@@ -98,68 +92,8 @@ Full-stack lending management application with authentication, RBAC, catalog man
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 
-**AI & Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1560BD?style=for-the-badge\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
-
-**Generative AI**
+**AI & Generative AI**
 
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-6E40C9?style=for-the-badge)
-
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-**Tools & Development**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-<br>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karthik2104-cr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2104-cr&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-</div>
-
-<br>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2104-cr&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-Open to AI/ML, Generative AI, and backend engineering opportunities.
-
-</div>
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![NLP]()
